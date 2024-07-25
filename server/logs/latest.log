@@ -220,3 +220,11 @@
 [22:41:49] [Thread-9/INFO]: UUID of player Timmyfunny is dde761c7-64ea-3741-8c4a-16e927b4c834
 [22:41:50] [Server thread/INFO]: Timmyfunny[/[0:0:0:0:0:0:0:1]:39566] logged in with entity id 301 at ([world]174.65569024009176, 72.0, 255.45104806904374)
 [22:42:47] [Server thread/INFO]: Timmyfunny has just earned the achievement [Getting Wood]
+[22:45:23] [Server thread/INFO]: Opped Timmyfunny
+[22:45:34] [Server thread/INFO]: There is no such item with name minecraft:stake
+[22:45:49] [Server thread/INFO]: Timmyfunny issued server command: /gamemode creative
+[22:45:49] [Server thread/INFO]: [Timmyfunny: Set own game mode to Creative Mode]
+[22:46:19] [Server thread/INFO]: Timmyfunny issued server command: /gamemode survival
+[22:46:19] [Server thread/INFO]: [Timmyfunny: Set own game mode to Survival Mode]
+[22:47:34] [Server thread/INFO]: Timmyfunny lost connection: Disconnected
+[22:47:34] [Server thread/INFO]: Timmyfunny left the game.

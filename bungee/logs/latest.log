@@ -73,3 +73,7 @@
 [22:43:29] [main/INFO]: Command not found
 [22:43:47] [main/INFO]: Command not found
 [22:43:56] [main/INFO]: Command not found
+[22:45:07] [main/INFO]: Command not found
+[22:47:34] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:43034|Timmyfunny] -> UpstreamBridge has disconnected
+[22:47:34] [Netty Worker IO Thread #0/INFO]: [Timmyfunny] disconnected with: Proxy lost connection to server.
+[22:47:34] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:43034|Timmyfunny] <-> DownstreamBridge <-> [lobby] has disconnected
