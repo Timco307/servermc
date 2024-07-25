@@ -213,3 +213,10 @@
 
 [22:39:34] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[22:41:22] [Thread-7/INFO]: Disconnecting com.mojang.authlib.GameProfile@100eaacf[id=57a535df-9626-3ad4-a207-e6d8217489f8,name=timmyfunny,properties={textures=[com.mojang.authlib.properties.Property@58ffef01], isEaglerPlayer=[com.mojang.authlib.properties.Property@747cc79e]},legacy=false] (/[0:0:0:0:0:0:0:1]:51460): [LoginSecurity] This account is registered under the name Timmyfunny, please log in as such.
+[22:41:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@100eaacf[id=57a535df-9626-3ad4-a207-e6d8217489f8,name=timmyfunny,properties={textures=[com.mojang.authlib.properties.Property@58ffef01], isEaglerPlayer=[com.mojang.authlib.properties.Property@747cc79e]},legacy=false] (/[0:0:0:0:0:0:0:1]:51460) lost connection: [LoginSecurity] This account is registered under the name Timmyfunny, please log in as such.
+[22:41:38] [Thread-8/INFO]: Disconnecting com.mojang.authlib.GameProfile@3f871ed9[id=57a535df-9626-3ad4-a207-e6d8217489f8,name=timmyfunny,properties={textures=[com.mojang.authlib.properties.Property@1191c7be], isEaglerPlayer=[com.mojang.authlib.properties.Property@15ae5154]},legacy=false] (/[0:0:0:0:0:0:0:1]:53020): [LoginSecurity] This account is registered under the name Timmyfunny, please log in as such.
+[22:41:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f871ed9[id=57a535df-9626-3ad4-a207-e6d8217489f8,name=timmyfunny,properties={textures=[com.mojang.authlib.properties.Property@1191c7be], isEaglerPlayer=[com.mojang.authlib.properties.Property@15ae5154]},legacy=false] (/[0:0:0:0:0:0:0:1]:53020) lost connection: [LoginSecurity] This account is registered under the name Timmyfunny, please log in as such.
+[22:41:49] [Thread-9/INFO]: UUID of player Timmyfunny is dde761c7-64ea-3741-8c4a-16e927b4c834
+[22:41:50] [Server thread/INFO]: Timmyfunny[/[0:0:0:0:0:0:0:1]:39566] logged in with entity id 301 at ([world]174.65569024009176, 72.0, 255.45104806904374)
+[22:42:47] [Server thread/INFO]: Timmyfunny has just earned the achievement [Getting Wood]

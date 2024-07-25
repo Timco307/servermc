@@ -48,3 +48,28 @@
 [22:39:45] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [22:39:45] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [22:39:46] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/servermc/bungee/plugins/EaglercraftXBungee/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+[22:41:16] [Netty Worker IO Thread #0/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/servermc/bungee/server-icon.png
+[22:41:22] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35832]: Connected via websocket
+[22:41:22] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35832]: Origin header is http://localhost:8081
+[22:41:22] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35832]: Logged in as 'timmyfunny'
+[22:41:22] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35832|timmyfunny] -> UpstreamBridge has connected
+[22:41:22] [Netty Worker IO Thread #1/INFO]: [timmyfunny|/[0:0:0:0:0:0:0:1%0]:35832] <-> ServerConnector [lobby] has connected
+[22:41:22] [Netty Worker IO Thread #1/INFO]: [timmyfunny] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This account is registered under the name Timmyfunny, please log in as such.
+[22:41:22] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35832|timmyfunny] -> UpstreamBridge has disconnected
+[22:41:22] [Netty Worker IO Thread #1/INFO]: [timmyfunny|/[0:0:0:0:0:0:0:1%0]:35832] <-> ServerConnector [lobby] has disconnected
+[22:41:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49336]: Connected via websocket
+[22:41:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49336]: Origin header is http://localhost:8081
+[22:41:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49336]: Logged in as 'timmyfunny'
+[22:41:38] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49336|timmyfunny] -> UpstreamBridge has connected
+[22:41:38] [Netty Worker IO Thread #2/INFO]: [timmyfunny|/[0:0:0:0:0:0:0:1%0]:49336] <-> ServerConnector [lobby] has connected
+[22:41:38] [Netty Worker IO Thread #2/INFO]: [timmyfunny] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This account is registered under the name Timmyfunny, please log in as such.
+[22:41:38] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49336|timmyfunny] -> UpstreamBridge has disconnected
+[22:41:38] [Netty Worker IO Thread #2/INFO]: [timmyfunny|/[0:0:0:0:0:0:0:1%0]:49336] <-> ServerConnector [lobby] has disconnected
+[22:41:49] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43034]: Connected via websocket
+[22:41:49] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43034]: Origin header is http://localhost:8081
+[22:41:49] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43034]: Logged in as 'Timmyfunny'
+[22:41:49] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:43034|Timmyfunny] -> UpstreamBridge has connected
+[22:41:49] [Netty Worker IO Thread #0/INFO]: [Timmyfunny|/[0:0:0:0:0:0:0:1%0]:43034] <-> ServerConnector [lobby] has connected
+[22:43:29] [main/INFO]: Command not found
+[22:43:47] [main/INFO]: Command not found
+[22:43:56] [main/INFO]: Command not found
