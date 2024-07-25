@@ -234,3 +234,26 @@
 [15:27:34] [Server thread/INFO]: Timmyfunny has just earned the achievement [Taking Inventory]
 [15:28:10] [Server thread/INFO]: Timmyfunny lost connection: Disconnected
 [15:28:10] [Server thread/INFO]: Timmyfunny left the game.
+[15:30:16] [Thread-8/INFO]: UUID of player Timmyfunny is dde761c7-64ea-3741-8c4a-16e927b4c834
+[15:30:16] [Server thread/INFO]: Timmyfunny[/[0:0:0:0:0:0:0:1]:52174] logged in with entity id 2776 at ([world]175.85629448288964, 72.0, 255.58943092346536)
+[15:30:58] [Server thread/INFO]: Timmyfunny lost connection: Disconnected
+[15:30:58] [Server thread/INFO]: Timmyfunny left the game.
+[15:31:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[15:31:10] [Server thread/INFO]: Stopping the server
+[15:31:10] [Server thread/INFO]: Stopping server
+[15:31:10] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[15:31:10] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[15:31:10] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[15:31:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[15:31:10] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[15:31:10] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[15:31:10] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[15:31:10] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[15:31:10] [Server thread/INFO]: Saving players
+[15:31:10] [Server thread/INFO]: Saving worlds
+[15:31:10] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:31:10] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:31:10] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

@@ -97,3 +97,11 @@
 [15:29:59] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
 [15:29:59] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
 [15:29:59] [main/ERROR]: 	... 10 more
+[15:30:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45198]: Connected via websocket
+[15:30:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45198]: Origin header is https://eaglercraft.com
+[15:30:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45198]: Logged in as 'Timmyfunny'
+[15:30:16] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45198|Timmyfunny] -> UpstreamBridge has connected
+[15:30:16] [Netty Worker IO Thread #2/INFO]: [Timmyfunny|/[0:0:0:0:0:0:0:1%0]:45198] <-> ServerConnector [lobby] has connected
+[15:30:58] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45198|Timmyfunny] -> UpstreamBridge has disconnected
+[15:30:58] [Netty Worker IO Thread #2/INFO]: [Timmyfunny] disconnected with: Proxy lost connection to server.
+[15:30:58] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45198|Timmyfunny] <-> DownstreamBridge <-> [lobby] has disconnected
